@@ -2,6 +2,7 @@ body {
     background-color: #1f1f23;
     color: #eceff4;
     font-family: 'Roboto', sans-serif;
+    user-select: none;
 }
 
 .groupTitle {
